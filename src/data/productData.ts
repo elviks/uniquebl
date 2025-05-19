@@ -23,16 +23,16 @@ export const categoryData: Category[] = [
           products: [
                {
                     id: 1,
-                    name: "Cotton Onesies (Set of 3)",
+                    name: "Cotton Wears",
                     description:
-                         "Soft, breathable cotton onesies in various colors",
-                    image: "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                         "Soft, breathable cotton wears in various colors",
+                    image: "https://img.drz.lazcdn.com/static/np/p/653c18fbbf43c1007242b65d4bbedbbb.jpg_720x720q80.jpg",
                },
                {
                     id: 2,
-                    name: "Baby Rompers",
-                    description: "Comfortable rompers for everyday wear",
-                    image: "https://images.unsplash.com/photo-1596870230751-ebdfce98ec42?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    name: "Baby Shoes",
+                    description: "Comfortable shoes for everyday wear",
+                    image: "https://img.drz.lazcdn.com/g/kf/S267c54bb3f134d99a50717d547587622C.png_720x720q80.png",
                },
                {
                     id: 3,
@@ -45,7 +45,7 @@ export const categoryData: Category[] = [
                     name: "Baby Hats & Caps",
                     description:
                          "Protect your baby from the sun with cute hats",
-                    image: "https://images.unsplash.com/photo-1555252333-9f8e92e65df9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://tinyalpaca.co.uk/cdn/shop/products/122.jpg?v=1659254032",
                },
           ],
      },
@@ -58,7 +58,7 @@ export const categoryData: Category[] = [
           products: [
                {
                     id: 5,
-                    name: "Soft Plush Animals",
+                    name: "Soft Plush Dolls",
                     description: "Cuddly companions for your little one",
                     image: "https://images.unsplash.com/photo-1602734846297-9299fc2d4703?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
                },
@@ -66,20 +66,19 @@ export const categoryData: Category[] = [
                     id: 6,
                     name: "Rattles & Teethers",
                     description: "Perfect for soothing teething babies",
-                    image: "https://images.unsplash.com/photo-1584302179602-e4c3d3fd629d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://smartdoko.com/storage/products/resized/1687944221_3568.jpg",
                },
                {
                     id: 7,
                     name: "Educational Blocks",
                     description: "Colorful blocks for early development",
-                    image: "https://images.unsplash.com/photo-1560859251-d c2c08084d31?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://www.nepal.ubuy.com/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFMR3A4Rmd6NlMuX0FDX1NMMTUwMF8uanBn.jpg",
                },
                {
                     id: 8,
-                    name: "Musical Toys",
-                    description:
-                         "Toys that play sounds and music for sensory development",
-                    image: "https://images.unsplash.com/photo-1515488764276-beab7607c1e6?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    name: "Funfull Toys",
+                    description: "Cars, Bikes, Trains and more",
+                    image: "https://images-na.ssl-images-amazon.com/images/I/51w-KA+MF-L._SL500_._AC_SL500_.jpg",
                },
           ],
      },
@@ -95,26 +94,26 @@ export const categoryData: Category[] = [
                     name: "Disposable Diapers",
                     description:
                          "Absorbent and comfortable diapers in various sizes",
-                    image: "https://images.unsplash.com/photo-1596488607410-0a3006598b4a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://static-01.daraz.com.np/p/bb36e69bacb3abd60cb2006417df7a3b.jpg",
                },
                {
                     id: 10,
                     name: "Baby Wipes",
                     description: "Gentle wipes for sensitive skin",
-                    image: "https://images.unsplash.com/photo-1598346763242-7fbe5426181d?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://www.huggies.com.my/-/media/feature/huggies/apac/my/product/plp-and-pdp-images/pdp-wipes-cc-01.jpg?rev=26a50ee18c024a29b9fcc391f2162d6f",
                },
                {
                     id: 11,
                     name: "Diaper Rash Cream",
                     description: "Soothes and prevents diaper rash",
-                    image: "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVEkQR7VZkbg3iY8jaV5RPZFld8CJTFe_3w&s",
                },
                {
                     id: 12,
                     name: "Cloth Diaper Sets",
                     description:
                          "Eco-friendly alternative to disposable diapers",
-                    image: "https://images.unsplash.com/photo-1596045844811-af11dd885fab?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://static-01.daraz.com.np/p/1c731f65d60b25f608d47a93f1f37c7d.jpg",
                },
           ],
      },
@@ -127,29 +126,29 @@ export const categoryData: Category[] = [
           products: [
                {
                     id: 13,
-                    name: "Cerelac Varieties",
+                    name: "Cerelacs",
                     description: "Nutritious cereal for growing babies",
-                    image: "https://images.unsplash.com/photo-1569654513470-22d063acf061?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://www.epharmacy.com.np/content/images/thumbs/5ebf881affda6100011437c4_nestle-cerelac-stage-1-6-months-24-months.jpeg",
                },
                {
                     id: 14,
-                    name: "Baby Formula",
-                    description: "High-quality formula for infants",
-                    image: "https://images.unsplash.com/photo-1584271854089-9bb3e5168e32?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    name: "Lactogen",
+                    description: "Lactogen for infants",
+                    image: "https://www.epharmacy.com.np/content/images/thumbs/5fa133af2126980001270bb6_lactogen-1-400gm.jpeg",
                },
-               {
-                    id: 15,
-                    name: "Fruit Purees",
-                    description:
-                         "Natural fruit purees for babies starting solids",
-                    image: "https://images.unsplash.com/photo-1631297858154-69f3f7239b57?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
-               },
-               {
-                    id: 16,
-                    name: "Toddler Snacks",
-                    description: "Healthy snack options for toddlers",
-                    image: "https://images.unsplash.com/photo-1593095948071-474c414833c8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
-               },
+               // {
+               //      id: 15,
+               //      name: "Fruit Purees",
+               //      description:
+               //           "Natural fruit purees for babies starting solids",
+               //      image: "https://images.unsplash.com/photo-1631297858154-69f3f7239b57?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+               // },
+               // {
+               //      id: 16,
+               //      name: "Toddler Snacks",
+               //      description: "Healthy snack options for toddlers",
+               //      image: "https://images.unsplash.com/photo-1593095948071-474c414833c8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+               // },
           ],
      },
      {
@@ -162,26 +161,26 @@ export const categoryData: Category[] = [
                     id: 17,
                     name: "Baby Bottles",
                     description: "Safe and BPA-free bottles for feeding",
-                    image: "https://images.unsplash.com/photo-1622289610920-5ef3fd9efad9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://static-01.daraz.com.np/p/73d56b20bbbe58fffbe0d67edce4c50e.jpg",
                },
                {
                     id: 18,
                     name: "Pacifiers",
                     description: "Soothing pacifiers for babies",
-                    image: "https://images.unsplash.com/photo-1590002893558-64b9a9753f05?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://img.freepik.com/free-vector/bright-children-pacifiers-flat-pictures-set_74855-16042.jpg?semt=ais_hybrid&w=740",
                },
                {
                     id: 19,
                     name: "Baby Bibs",
                     description: "Cute and practical bibs for mealtimes",
-                    image: "https://images.unsplash.com/photo-1522771930-78848d9293e8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://img.drz.lazcdn.com/static/np/p/f1c253d155c94ca19657730f15f23fe4.jpg_720x720q80.jpg",
                },
                {
                     id: 20,
                     name: "Baby Carriers",
                     description:
                          "Comfortable carriers for hands-free baby carrying",
-                    image: "https://images.unsplash.com/photo-1571210862729-78a52d3779a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                    image: "https://lumibabyshop.co.ke/wp-content/uploads/2023/08/baby-carrier-prices-in-nairobi-kenya.jpg",
                },
           ],
      },

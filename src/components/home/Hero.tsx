@@ -21,7 +21,7 @@ const Hero = () => {
                               </h1>
                               <p className="text-xl text-gray-700 mb-8">
                                    Your one-stop shop for all things baby.
-                                   Quality products, personal service, and
+                                   Quality products, exceptional service, and
                                    affordable prices.
                               </p>
                               <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">

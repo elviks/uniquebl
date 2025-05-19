@@ -11,13 +11,19 @@ const ContactInfo = () => {
                <div className="space-y-5">
                     <div className="flex items-start">
                          <Phone className="h-5 w-5 text-babyblue-dark mr-3 mt-1 flex-shrink-0" />
-                         <div>
+                         <div className="flex flex-col">
                               <p className="font-medium text-gray-800">Phone</p>
                               <a
                                    href="tel:+1234567890"
                                    className="text-gray-600 hover:text-babypink-dark transition-colors"
                               >
                                    9856022973
+                              </a>
+                              <a
+                                   href="tel:+1234567890"
+                                   className="text-gray-600 hover:text-babypink-dark transition-colors"
+                              >
+                                   9846031662
                               </a>
                          </div>
                     </div>
@@ -27,7 +33,7 @@ const ContactInfo = () => {
                          <div>
                               <p className="font-medium text-gray-800">Email</p>
                               <a
-                                   href="mailto:info@littletreasures.com"
+                                   href="mailto:info@rnuniquebabyland.com"
                                    className="text-gray-600 hover:text-babypink-dark transition-colors"
                               >
                                    info@rnuniquebabyland.com

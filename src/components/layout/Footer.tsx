@@ -16,6 +16,11 @@ const Footer = () => {
                                    Your local baby shop offering quality baby
                                    items at affordable prices.
                               </p>
+                              <img
+                                   src="images/uniquelogo.png"
+                                   alt="main logo"
+                                   width={80}
+                              />
                          </div>
 
                          <div className="space-y-4">
@@ -73,7 +78,7 @@ const Footer = () => {
                                    <div className="flex items-center space-x-2">
                                         <Mail className="h-5 w-5 text-babypink-dark" />
                                         <a
-                                             href="mailto:info@littletreasures.com"
+                                             href="mailto:info@rnuniquebabyland.com"
                                              className="text-gray-600 hover:text-babypink-dark transition-colors"
                                         >
                                              info@rnuniquebabyland.com
@@ -86,13 +91,6 @@ const Footer = () => {
                                         </span>
                                    </div>
                                    <div className="flex items-center space-x-4 pt-2">
-                                        <a
-                                             href="#"
-                                             aria-label="Instagram"
-                                             className="text-gray-600 hover:text-babypink-dark transition-colors"
-                                        >
-                                             <Instagram className="h-5 w-5" />
-                                        </a>
                                         <a
                                              href="https://www.facebook.com/biraura/"
                                              aria-label="Facebook"
