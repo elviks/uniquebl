@@ -87,7 +87,7 @@ const Header = () => {
                               <X className="h-6 w-6" />
                          </Button>
                     </div>
-                    <div className="flex flex-col items-center space-y-6 p-8 pt-0">
+                    <div className="flex flex-col items-center space-y-6 p-8 pt-0 bg-white">
                          {menuItems.map((item) => (
                               <Link
                                    key={item.name}
